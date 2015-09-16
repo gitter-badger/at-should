@@ -1,0 +1,16 @@
+<pre class='metadata'>
+Title: CSS @should Rule
+Shortname: css-should-rule
+Level: 1
+Status: DREAM
+URL: http://robinpokorny.github.io/at-should
+Editor: Robin Pokorný, Wimdu, http://robinpokorny.com/
+Abstract: This specification defines the ''@should'' rule, which allows an author to define semantics of the custom classnames vocabulary for documentation and testing.
+Ignored Terms: SyntaxError
+Warning: Not Ready
+</pre>
+
+Introduction {#intro}
+=====================
+
+The growth of a CSS code base and the consequent growth of custom vocabulary with defined semantics and other relationships brings extended demands to authors. The ''@should'' rule makes these relationships explicit, the information provided can be used as a base for documentation or as on input for automatic testing tools.
